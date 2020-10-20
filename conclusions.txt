@@ -1,0 +1,12 @@
+My Conclusions:
+1. The rating of these restaurants is not locational. There is no correlation between location and rating, 
+meaning there is no specific area that has better or worst restaurants as a whole.
+
+2. There appears to be a slight correlation between Average Cost and Rating. 
+This could be because the more expensive food is, typically the better it is. 
+
+3. There does not appear to be a correlation with location and long wait times (greater than 60 minutes)
+
+4. Here is a list of the trending restaurants with a rating of 4.3 or higher and 500 votes or more.
+'ID_7901', 'ID_8529', 'ID_6080', 'ID_5605', 'ID_1666', 'ID_2051', 'ID_3575', 'ID_6412', 'ID_567'
+
